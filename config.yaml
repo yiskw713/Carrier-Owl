@@ -1,11 +1,13 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.CV'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        action: 1
+        image: 1
+        deep learning: 1
+        machine learning: 1
+        
 
 # 通知の閾値
 score_threshold: 0
