@@ -5,6 +5,7 @@ subject: 'cat:cs.CV'
 keywords:
         action: 1
         image: 1
+        video: 1
         deep learning: 1
         machine learning: 1
         
