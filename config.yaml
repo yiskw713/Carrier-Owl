@@ -9,13 +9,8 @@ keywords:
         action: 1
         image: 1
         video: 1
-        event-based camera: 1
-        event-based: 1
-        event: 1
-        dynamic vision sensor: 1
-        point: 1
-       
+        retrieval: 1
         
 
 # 通知の閾値
-score_threshold: 1
+score_threshold: 0
