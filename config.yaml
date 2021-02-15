@@ -1,8 +1,10 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.CV'
+subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
+        deep learning: 1
+        machine learning: 1
         recognition: 1
         segmentation: 1
         detection: 1
@@ -13,4 +15,4 @@ keywords:
         
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
