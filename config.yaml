@@ -3,12 +3,19 @@ subject: 'cat:cs.CV'
 
 # 検索キーワード
 keywords:
+        recognition: 1
+        segmentation: 1
+        detection: 1
         action: 1
         image: 1
         video: 1
-        deep learning: 1
-        machine learning: 1
+        event-based camera: 1
+        event-based: 1
+        event: 1
+        dynamic vision sensor: 1
+        point: 1
+       
         
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
