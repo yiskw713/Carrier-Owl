@@ -6,13 +6,23 @@ keywords:
         deep learning: 1
         machine learning: 1
         recognition: 1
+        classification: 1
         segmentation: 1
+        classification: 1
         detection: 1
         action: 1
         image: 1
         video: 1
         retrieval: 1
-        
+        transformer: 1
+        attention: 1
+        gan: 1
+        adversarial: 1
+        adversarial training: 1
+        few-shot: 1
+        zero-shot: 1
+        one-shot: 1
+        domain adaptation: 1         
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 3
